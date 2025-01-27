@@ -29,3 +29,8 @@ Tento projekt ukazuje, jak vytvořit EC2 instanci na AWS s pomocí Terraformu, n
 
 ├── main.tf                # Terraform kód pro vytvoření infrastruktury
 ├── README.md              # Popis projektu
+
+
+## Aktuální stav
+
+    Instance je zastavena (stopped) z důvodu šetření zdrojů v rámci Free Tier EC2
