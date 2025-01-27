@@ -19,7 +19,7 @@ Tento projekt ukazuje, jak vytvořit EC2 instanci na AWS s pomocí Terraformu, n
    terraform plan 
    terraform apply
    ```
-   a... kdyz vas to nebai ... tak...
+   a... kdyz vas to nebavi ... tak...
  ```
    terraform destroy
 ```
